@@ -1,5 +1,5 @@
-# CinemaVerse
-# 🎬 CinemaVerse – Cinema Hall Ticket Booking System
+# 🎬 CinemaVerse
+#  Cinema Hall Ticket Booking System
 
 CinemaVerse is a simple cinema hall ticket booking system using PostgreSQL for the backend and Java for database connectivity. The system supports user registrations, movie ticket bookings, cancellations, and admin-level showtime management.
 
